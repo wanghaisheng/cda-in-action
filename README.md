@@ -23,9 +23,9 @@ HL7数据类型标准的业务模型的复杂度一直为人所诟病，单单�
 本书所有内容开源，采用互联网合作的方式进行创作和维护。
 
 本书既适用于医院信息科室的员工和软件供应商的开发人员，亦适合于任何想对CDA有所了解的初学者，也可供希望理解原理和底层实现的高级用户参考。
-在线阅读：[https://www.gitbook.io/book/yeasy/docker_practice](https://www.gitbook.io/book/yeasy/docker_practice)。
+[电子书在线阅读地址](https://www.gitbook.io/book/wanghaisheng/cda_in_action) 			
 
 维护本书的Github项目： [https://github.com/wanghaisheng/cda-in-action](https://github.com/wanghaisheng/cda-in-action)。
 欢迎大家参与，提交pull request。
 
-另外，欢迎大家加入Docker QQ群（341410255）一起交流学习，共同提高。
+另外，欢迎大家加入 QQ群（155056151 320163555）一起交流学习，共同提高。
